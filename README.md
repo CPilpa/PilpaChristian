@@ -1,411 +1,1388 @@
-<html style="font-size: 16px;" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="​I’m Linda Larson, a twenty-nine-year-old UI/UX designer from Los Angeles, CA, 2017, 2018, 2019, 2020, 2021, 2022, ​I&amp;apos;m designed dozens of appealing interfaces for websites and web apps. Take a look at my projects below., ​UI/UX design, Application design, UX research, Visual communication, Prototyping Headline, ​Get your free consultation now!, ​Sign me up!">
-    <meta name="description" content="">
-    <title>Personal Website</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="Personal-Website.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 5.1.5, nicepage.com">
-    <meta name="referrer" content="origin">
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+ .u-section-1 {
+  background-image: none;
+}
 
+.u-section-1 .u-sheet-1 {
+  min-height: 692px;
+}
 
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
 
+.u-section-1 .u-layout-cell-1 {
+  min-height: 572px;
+}
 
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
 
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+}
 
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 20px auto 0 0;
+}
 
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "",
-		"sameAs": [
-				"https://www.facebook.com/chrisp03/",
-				"https://www.youtube.com/channel/UC-t6ehEpi5gaLDNCWM-LFzg",
-				"https://www.instagram.com/crispotato3/"
-		]
-}</script>
-    <meta name="theme-color" content="#1251e8">
-    <meta property="og:title" content="Personal Website">
-    <meta property="og:type" content="website">
-  </head>
-  <body class="u-body u-xl-mode" data-lang="en"><header class="u-align-left u-clearfix u-header u-section-row-container" id="sec-bdfa"><div class="u-section-rows">
-        <div class="u-grey-70 u-section-row u-section-row-1" id="sec-46aa">
-          <div class="u-clearfix u-sheet u-sheet-1">
-            <div class="u-social-icons u-spacing-10 u-social-icons-1">
-              <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/chrisp03/"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xlink:href="#svg-aee4"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-aee4"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
-            c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
-              </a>
-              <a class="u-social-url" title="youtube" target="_blank" href="https://www.youtube.com/channel/UC-t6ehEpi5gaLDNCWM-LFzg"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-icon-2"><img src="images/image-3.png" alt=""></span>
-              </a>
-              <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/crispotato3/"><span class="u-icon u-social-icon u-social-instagram u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xlink:href="#svg-1b76"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-1b76"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
-            z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
-            C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
-            c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
-              </a>
-            </div>
-            <form action="#" method="get" class="u-border-1 u-border-grey-30 u-expanded-width-xs u-search u-search-right u-search-1">
-              <button class="u-search-button" type="submit">
-                <span class="u-search-icon u-spacing-10 u-text-grey-40">
-                  <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 56.966 56.966" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-9dab"></use></svg>
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-9dab" x="0px" y="0px" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve" class="u-svg-content"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z"></path><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
-                </span>
-              </button>
-              <input class="u-search-input" type="search" name="search" value="" placeholder="Search">
-            </form>
-          </div>
+.u-section-1 .u-text-3 {
+  margin: 20px 0 0;
+}
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  margin: 31px auto 0 0;
+  padding: 14px 58px 14px 57px;
+}
 
+.u-section-1 .u-layout-cell-2 {
+  min-height: 572px;
+}
 
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
 
+.u-section-1 .u-image-1 {
+  height: 512px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
-        </div>
-        <div class="u-section-row" id="sec-37e8">
-          <div class="u-clearfix u-sheet u-sheet-2">
-            <nav data-position="" class="u-menu u-menu-one-level u-offcanvas u-menu-1">
-              <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
-                <a class="u-button-style u-custom-active-border-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link" href="#" style="padding: 2px 0px; font-size: calc(1em + 4px);">
-                  <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
-                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
-</symbol>
-</defs></svg>
-                </a>
-              </div>
-              <div class="u-custom-menu u-nav-container">
-                <ul class="u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="#" style="padding: 10px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="#" style="padding: 10px;">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-palette-2-base" href="#" style="padding: 10px;">Contact</a>
-</li></ul>
-              </div>
-              <div class="u-custom-menu u-nav-container-collapse">
-                <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
-                  <div class="u-sidenav-overflow">
-                    <div class="u-menu-close"></div>
-                    <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Contact</a>
-</li></ul>
-                  </div>
-                </div>
-                <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
-              </div>
-            </nav>
-          </div>
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 592px;
+  }
 
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 472px;
+  }
 
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 532px;
+  }
 
+  .u-section-1 .u-image-1 {
+    height: 472px;
+  }
+}
 
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 613px;
+  }
 
-        </div>
-      </div></header>
-    <section class="u-clearfix u-grey-90 u-section-1" id="carousel_a79e">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
-                <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-1">
-                  <h2 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> I’m Christian Pilpa, a nineteen-year-old College Student from The Philippines</h2>
-                  <h5 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-2"> Currently studying Information Technology at Adamson University.</h5>
-                  <p class="u-text u-text-default u-text-3">I also speak three languages: Tagalog, English, and Italian</p>
-                  <a href="Personal-Website.html#carousel_2575" class="u-border-none u-btn u-btn-round u-button-style u-palette-1-base u-radius-20 u-btn-1">Contacts</a>
-                </div>
-              </div>
-              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-                <div class="u-container-layout u-valign-bottom-lg u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-2">
-                  <img class="u-expanded-width u-image u-image-default u-image-1" src="images/image-5.png" alt="" data-image-width="947" data-image-height="960">
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-clearfix u-grey-90 u-section-2" id="carousel_1822">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-align-left-sm u-container-align-left-xs u-container-style u-layout-cell u-size-15 u-layout-cell-1">
-                <div class="u-container-layout u-valign-top-lg u-valign-top-xl u-valign-top-xs u-container-layout-1">
-                  <h5 class="u-align-left-sm u-align-left-xs u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> Schools</h5>
-                </div>
-              </div>
-              <div class="u-container-style u-layout-cell u-size-45 u-layout-cell-2">
-                <div class="u-container-layout u-container-layout-2">
-                  <div class="u-expanded-width u-list u-list-1">
-                    <div class="u-repeater u-repeater-1">
-                      <div class="u-container-align-center u-container-style u-custom-item u-grey-80 u-list-item u-repeater-item u-shape-rectangle">
-                        <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-3">
-                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-2">2010</h2>
-                          <p class="u-align-center u-text u-text-default u-text-3">1st and 2nd Grade at Francisco Benitez Elementary School</p>
-                        </div>
-                      </div>
-                      <div class="u-container-align-center u-container-style u-custom-item u-grey-80 u-list-item u-repeater-item u-shape-rectangle">
-                        <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-4">
-                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-4">2012</h2>
-                          <p class="u-align-center u-text u-text-default u-text-5">3rd and 4th Grade at Scuola Primaria Martiri di Cefalonia</p>
-                        </div>
-                      </div>
-                      <div class="u-container-align-center u-container-style u-custom-item u-grey-80 u-list-item u-repeater-item u-shape-rectangle u-list-item-3">
-                        <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-5">
-                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-6">2014</h2>
-                          <p class="u-align-center u-text u-text-default u-text-7">5th and 6th Grade at Bagong Buhay F Elementary School</p>
-                        </div>
-                      </div>
-                      <div class="u-container-style u-custom-item u-grey-80 u-list-item u-repeater-item u-shape-rectangle">
-                        <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-6">
-                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-8">2017</h2>
-                          <p class="u-align-center u-text u-text-default u-text-9">Junior High School at Luigi Vicini</p>
-                        </div>
-                      </div>
-                      <div class="u-container-align-center u-container-style u-custom-item u-grey-80 u-list-item u-repeater-item u-shape-rectangle">
-                        <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-7">
-                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-10">2020</h2>
-                          <p class="u-align-center u-text u-text-default u-text-11">Senior High School at Lagro High School</p>
-                        </div>
-                      </div>
-                      <div class="u-container-align-center u-container-style u-custom-item u-list-item u-palette-2-base u-repeater-item u-shape-rectangle">
-                        <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-8">
-                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-12">2022</h2>
-                          <p class="u-align-center u-text u-text-default u-text-13">College School at Adamson University</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-clearfix u-grey-90 u-section-3" id="carousel_8040">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-style u-layout-cell u-size-15 u-layout-cell-1">
-                <div class="u-container-layout u-container-layout-1">
-                  <h4 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> Places Visited</h4>
-                </div>
-              </div>
-              <div class="u-container-style u-layout-cell u-size-29-md u-size-29-sm u-size-29-xs u-size-31-lg u-size-31-xl u-layout-cell-2">
-                <div class="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-2">
-                  <h2 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-2">I've been to three countries, 1st is The Philippines, 2nd in Italy, and 3rd in Switzerland.</h2>
-                </div>
-              </div>
-              <div class="u-container-align-left-sm u-container-align-left-xs u-container-align-right-lg u-container-align-right-md u-container-align-right-xl u-container-style u-layout-cell u-size-14-lg u-size-14-xl u-size-16-md u-size-16-sm u-size-16-xs u-layout-cell-3">
-                <div class="u-container-layout u-container-layout-3">
-                  <a href="https://www.bing.com/maps?q=manila+map&amp;FORM=HDRSC4" class="u-align-left-sm u-align-left-xs u-align-right-lg u-align-right-md u-align-right-xl u-border-none u-btn u-btn-round u-button-style u-palette-1-base u-radius-10 u-btn-1" target="_blank"> Current City</a>
-                  <a href="https://www.bing.com/search?q=san+jose+del+monte+bulacan+map&amp;qs=AS&amp;pq=san+jose+del+monte+bulacan+ma&amp;sc=10-29&amp;cvid=8C73331CD6044412A67281CF94086FA9&amp;FORM=QBRE&amp;sp=1" class="u-align-left-sm u-align-left-xs u-align-right-lg u-align-right-md u-align-right-xl u-border-none u-btn u-btn-round u-button-style u-palette-2-base u-radius-10 u-btn-2" target="_blank"> Hometown</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="u-expanded-width u-list u-list-1">
-          <div class="u-repeater u-repeater-1">
-            <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-1">
-              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-4">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-1" data-image-width="1280" data-image-height="800" src="images/image-13.png">
-              </div>
-            </div>
-            <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-2">
-              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-5">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-2" data-image-width="1280" data-image-height="720" src="images/image-11.png">
-              </div>
-            </div>
-            <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-3">
-              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-6">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-3" data-image-width="1280" data-image-height="720" src="images/image-12.png">
-              </div>
-            </div>
-            <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-4">
-              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-7">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-4" data-image-width="1000" data-image-height="667" src="images/image-9.png">
-              </div>
-            </div>
-            <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-5">
-              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-8">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-5" data-image-width="1000" data-image-height="667" src="images/image.png">
-              </div>
-            </div>
-            <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-6">
-              <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-9">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-6" data-image-width="1280" data-image-height="853" src="images/image-10.png">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-clearfix u-grey-90 u-section-4" id="carousel_7f0c">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-align-left-sm u-container-align-left-xs u-container-style u-layout-cell u-size-15 u-layout-cell-1">
-                <div class="u-container-layout u-valign-top u-container-layout-1">
-                  <h5 class="u-align-left-sm u-align-left-xs u-custom-font u-font-ubuntu u-text u-text-default u-text-1">Skills</h5>
-                </div>
-              </div>
-              <div class="u-container-align-left-sm u-container-align-left-xs u-container-style u-layout-cell u-size-25 u-layout-cell-2">
-                <div class="u-container-layout u-valign-top-xs u-container-layout-2">
-                  <h2 class="u-align-left-sm u-align-left-xs u-custom-font u-font-ubuntu u-text u-text-default u-text-2"> Digital Art/Traditional Art, Photoshop, Video Editing.</h2>
-                </div>
-              </div>
-              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-3">
-                <div class="u-container-layout u-container-layout-3">
-                  <div class="u-expanded-width u-list u-list-1">
-                    <div class="u-repeater u-repeater-1">
-                      <div class="u-container-align-center u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-1">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4"><span class="u-file-icon u-icon u-icon-1"><img src="images/5210884.png" alt=""></span>
-                        </div>
-                      </div>
-                      <div class="u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-2">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5"><span class="u-file-icon u-icon u-icon-2"><img src="images/image_150.png" alt=""></span>
-                        </div>
-                      </div>
-                      <div class="u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-3">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-6"><span class="u-file-icon u-icon u-icon-3"><img src="images/5210800.png" alt=""></span>
-                        </div>
-                      </div>
-                      <div class="u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-4">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-7"><span class="u-file-icon u-icon u-icon-4"><img src="images/image-8.png" alt=""></span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-align-center u-clearfix u-grey-90 u-section-5" id="carousel_f274">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-expanded-width u-gallery u-layout-grid u-lightbox u-show-text-on-hover u-gallery-1">
-          <div class="u-gallery-inner u-gallery-inner-1">
-            <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
-              <div class="u-back-slide" data-image-width="720" data-image-height="720">
-                <img class="u-back-image u-expanded" src="images/1.jpg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-1">
-                <h3 class="u-gallery-heading"></h3>
-                <p class="u-gallery-text"></p>
-              </div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
-              <div class="u-back-slide" data-image-width="768" data-image-height="768">
-                <img class="u-back-image u-expanded" src="images/2.jpg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-2">
-                <h3 class="u-gallery-heading"></h3>
-                <p class="u-gallery-text"></p>
-              </div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
-              <div class="u-back-slide" data-image-width="768" data-image-height="768">
-                <img class="u-back-image u-expanded" src="images/3.jpg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-3">
-                <h3 class="u-gallery-heading"></h3>
-                <p class="u-gallery-text"></p>
-              </div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
-              <div class="u-back-slide" data-image-width="534" data-image-height="538">
-                <img class="u-back-image u-expanded" src="images/4.jpg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-4">
-                <h3 class="u-gallery-heading"></h3>
-                <p class="u-gallery-text"></p>
-              </div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
-              <div class="u-back-slide" data-image-width="768" data-image-height="768">
-                <img class="u-back-image u-expanded" src="images/5.jpg">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-5">
-                <h3 class="u-gallery-heading"></h3>
-                <p class="u-gallery-text"></p>
-              </div>
-            </div>
-            <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
-              <div class="u-back-slide" data-image-width="514" data-image-height="643">
-                <img class="u-back-image u-expanded" src="images/6.png">
-              </div>
-              <div class="u-over-slide u-shading u-over-slide-6">
-                <h3 class="u-gallery-heading"></h3>
-                <p class="u-gallery-text"></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-clearfix u-grey-90 u-section-6" id="carousel_2575">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-col">
-              <div class="u-size-30">
-                <div class="u-layout-row">
-                  <div class="u-container-style u-layout-cell u-size-30-lg u-size-30-md u-size-30-sm u-size-30-xs u-size-35-xl u-layout-cell-1">
-                    <div class="u-container-layout u-container-layout-1">
-                      <h2 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-1">Contacts</h2>
-                      <p class="u-text u-text-default u-text-2"> Feel free to email me anytime! I'd be more than happy to help you enhance your skills, in terms of drawing or editing.</p>
-                    </div>
-                  </div>
-                  <div class="u-container-align-left-sm u-container-align-left-xs u-container-style u-layout-cell u-size-25-xl u-size-30-lg u-size-30-md u-size-30-sm u-size-30-xs u-layout-cell-2">
-                    <div class="u-container-layout u-container-layout-2"></div>
-                  </div>
-                </div>
-              </div>
-              <div class="u-size-30">
-                <div class="u-layout-row">
-                  <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-3">
-                    <div class="u-container-layout u-container-layout-3">
-                      <p class="u-text u-text-default u-text-3">Pedro Gil St. South-Central Manila, Philippines</p>
-                      <h4 class="u-custom-font u-font-montserrat u-text u-text-4"> +63 969 096 0261<br>
-                        <font color="#f41a83">pilpachristian03@gmail.com</font>
-                      </h4>
-                    </div>
-                  </div>
-                  <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-4">
-                    <div class="u-container-layout u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-4">
-                      <h2 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-5">Sign me up!</h2>
-                      <p class="u-text u-text-6">You can get a chance of winning a free digital art portrait of yourself by signing up!</p>
-                      <div class="u-expanded-width u-form u-form-1">
-                        <form action="https://forms.nicepagesrv.com/Form/Process" class="u-clearfix u-form-horizontal u-form-spacing-10 u-inner-form" source="email" name="form" style="padding: 0px;">
-                          <div class="u-form-email u-form-group u-label-none">
-                            <label for="email-5b2e" class="u-label">Email</label>
-                            <input type="email" placeholder="Enter a valid email address" id="email-5b2e" name="email" class="u-input u-input-rectangle u-radius-10 u-white" required="">
-                          </div>
-                          <div class="u-align-left u-form-group u-form-submit u-label-none">
-                            <a href="#" class="u-border-none u-btn u-btn-round u-btn-submit u-button-style u-palette-2-base u-radius-10 u-btn-1">Submit</a>
-                            <input type="submit" value="submit" class="u-form-control-hidden">
-                          </div>
-                          <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
-                          <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
-                          <input type="hidden" value="" name="recaptchaResponse">
-                          <input type="hidden" name="formServices" value="fab7037a398b7af6bce7c931318b728f">
-                        </form>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: -106px;
+  }
 
-</body></html>
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 493px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 28px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-size: 2.25rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 493px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-bottom: 28px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 435px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 929px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 740px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 754px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 970px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 466px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 464px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 475px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  position: relative;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 435px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 0 30px 30px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+  min-height: 375px;
+  grid-gap: 20px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 31px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 0.875rem;
+  margin: 20px 7px 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 31px auto 0;
+}
+
+.u-section-2 .u-text-5 {
+  font-size: 0.875rem;
+  margin: 20px 7px 0;
+}
+
+.u-section-2 .u-list-item-3 {
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 31px auto 0;
+}
+
+.u-section-2 .u-text-7 {
+  font-size: 0.875rem;
+  margin: 20px 7px 0;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-text-8 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 31px auto 0;
+}
+
+.u-section-2 .u-text-9 {
+  font-size: 0.875rem;
+  margin: 20px 7px 0;
+}
+
+.u-section-2 .u-container-layout-7 {
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-text-10 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 31px auto 0;
+}
+
+.u-section-2 .u-text-11 {
+  font-size: 0.875rem;
+  margin: 20px 7px 0;
+}
+
+.u-section-2 .u-container-layout-8 {
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-text-12 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 31px auto 0;
+}
+
+.u-section-2 .u-text-13 {
+  font-size: 0.875rem;
+  margin: 20px 7px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 399px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 359px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 330px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 307px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 140px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 598px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 9.99997px));
+    min-height: 538px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1011px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-9 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-11 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-13 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 870px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 9px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 89px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 2.25rem;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-4 {
+    font-size: 2.25rem;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-6 {
+    font-size: 2.25rem;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-8 {
+    font-size: 2.25rem;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-10 {
+    font-size: 2.25rem;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-12 {
+    font-size: 2.25rem;
+    width: auto;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 922px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 222px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 222px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.25rem;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 222px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 0 30px 30px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  margin: 0 0 0 auto;
+  padding: 13px 49px 13px 48px;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  margin: 53px 0 0 auto;
+  padding: 13px 49px 13px 48px;
+}
+
+.u-section-3 .u-list-1 {
+  grid-template-rows: repeat(1, auto);
+  margin-top: 32px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+  min-height: 548px;
+  grid-gap: 20px;
+}
+
+.u-section-3 .u-list-item-1 {
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 0 20px;
+}
+
+.u-section-3 .u-image-1 {
+  height: 277px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+.u-section-3 .u-list-item-2 {
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 0 20px;
+}
+
+.u-section-3 .u-image-2 {
+  height: 277px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+.u-section-3 .u-list-item-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-6 {
+  padding: 0 20px;
+}
+
+.u-section-3 .u-image-3 {
+  height: 277px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+.u-section-3 .u-list-item-4 {
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-7 {
+  padding: 0 20px;
+}
+
+.u-section-3 .u-image-4 {
+  height: 277px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+.u-section-3 .u-list-item-5 {
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-8 {
+  padding: 0 20px;
+}
+
+.u-section-3 .u-image-5 {
+  height: 277px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+.u-section-3 .u-list-item-6 {
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-9 {
+  padding: 0 20px;
+}
+
+.u-section-3 .u-image-6 {
+  height: 277px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 862px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 183px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 183px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 183px;
+  }
+
+  .u-section-3 .u-list-1 {
+    margin-bottom: 39px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 13.3333px));
+    min-height: 452px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 222px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: 222px;
+  }
+
+  .u-section-3 .u-image-3 {
+    height: 222px;
+  }
+
+  .u-section-3 .u-image-4 {
+    height: 222px;
+  }
+
+  .u-section-3 .u-image-5 {
+    height: 222px;
+  }
+
+  .u-section-3 .u-image-6 {
+    height: 222px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 800px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+  }
+
+  .u-section-3 .u-list-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 9.999975px));
+    min-height: 796px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-3 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-4 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-5 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-6 {
+    height: 260px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 900px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 159px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 423px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: 423px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    height: 423px;
+  }
+
+  .u-section-3 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-4 {
+    height: 423px;
+  }
+
+  .u-section-3 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-5 {
+    height: 423px;
+  }
+
+  .u-section-3 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-6 {
+    height: 423px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 225px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-3 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-4 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-5 {
+    height: 260px;
+  }
+
+  .u-section-3 .u-image-6 {
+    height: 260px;
+  }
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 444px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: -51px;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 287px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 287px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-2 {
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.25rem;
+}
+
+.u-section-4 .u-layout-cell-3 {
+  min-height: 324px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-4 .u-list-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: repeat(2, calc(50% - 10px));
+  min-height: 324px;
+  grid-gap: 20px;
+}
+
+.u-section-4 .u-list-item-1 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 10px;
+}
+
+.u-section-4 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 24px auto 0;
+}
+
+.u-section-4 .u-list-item-2 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-5 {
+  padding: 10px;
+}
+
+.u-section-4 .u-icon-2 {
+  width: 64px;
+  height: 64px;
+  margin: 24px auto 0;
+}
+
+.u-section-4 .u-list-item-3 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-6 {
+  padding: 10px;
+}
+
+.u-section-4 .u-icon-3 {
+  width: 64px;
+  height: 64px;
+  margin: 24px auto 0;
+}
+
+.u-section-4 .u-list-item-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-7 {
+  padding: 10px;
+}
+
+.u-section-4 .u-icon-4 {
+  width: 64px;
+  height: 68px;
+  margin: 24px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 387px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 237px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 237px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 267px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    min-height: 268px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 436px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 205px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 792px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: auto;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 461px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 621px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 166px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 290px;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 905px;
+}
+
+.u-section-5 .u-gallery-1 {
+  height: 745px;
+  margin-top: 80px;
+  margin-bottom: -36px;
+  grid-gap: 17px;
+}
+
+.u-section-5 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 41px;
+}
+
+.u-section-5 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 754px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 614px;
+    margin-bottom: -152px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1188px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 1058px;
+    margin-bottom: -278px;
+  }
+
+  .u-section-5 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 3254px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 3174px;
+    margin-bottom: 0;
+  }
+
+  .u-section-5 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 2078px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 1998px;
+  }
+} .u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 706px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: -5px;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 243px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px 0 30px 30px;
+}
+
+.u-section-6 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.25rem;
+  font-weight: 400;
+}
+
+.u-section-6 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 19px auto 0 0;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 243px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px 0 30px 30px;
+}
+
+.u-section-6 .u-layout-cell-3 {
+  min-height: 343px;
+}
+
+.u-section-6 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-3 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.u-section-6 .u-text-4 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 50px 0 0;
+}
+
+.u-section-6 .u-layout-cell-4 {
+  min-height: 343px;
+}
+
+.u-section-6 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-5 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.25rem;
+  font-weight: 400;
+}
+
+.u-section-6 .u-text-6 {
+  font-size: 1.125rem;
+  margin: 19px 0 0;
+}
+
+.u-section-6 .u-form-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 668px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 200px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 200px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 283px;
+  }
+
+  .u-section-6 .u-text-3 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 283px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 385px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 184px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 369px;
+  }
+
+  .u-section-6 .u-text-5 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-right: auto;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 585px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 276px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 174px;
+  }
+
+  .u-section-6 .u-text-4 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-6 .u-text-5 {
+    font-size: 1.5rem;
+  }
+}
