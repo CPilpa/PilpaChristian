@@ -140,7 +140,7 @@
                     <div class="u-repeater u-repeater-1">
                       <div class="u-container-align-center u-container-style u-custom-item u-grey-80 u-list-item u-repeater-item u-shape-rectangle">
                         <div class="u-container-layout u-similar-container u-valign-top-xs u-container-layout-3">
-                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-2">2008-2010</h2>
+                          <h2 class="u-align-center u-custom-font u-font-ubuntu u-text u-text-default u-text-2">2010</h2>
                           <p class="u-align-center u-text u-text-default u-text-3">1st and 2nd Grade at Francisco Benitez Elementary School</p>
                         </div>
                       </div>
