@@ -190,7 +190,7 @@
             <div class="u-layout-row">
               <div class="u-container-style u-layout-cell u-size-15 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
-                  <h4 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> Places Visited</h4>
+                  <h4 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> Place Visited</h4>
                 </div>
               </div>
               <div class="u-container-style u-layout-cell u-size-29-md u-size-29-sm u-size-29-xs u-size-31-lg u-size-31-xl u-layout-cell-2">
@@ -359,7 +359,7 @@
                   <div class="u-container-style u-layout-cell u-size-30-lg u-size-30-md u-size-30-sm u-size-30-xs u-size-35-xl u-layout-cell-1">
                     <div class="u-container-layout u-container-layout-1">
                       <h2 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-1">Contacts</h2>
-                      <p class="u-text u-text-default u-text-2"> Feel free to email me anytime! I'd be more than happy to help you enhance your skills, in terms of drawing or editing.</p>
+                      <p class="u-text u-text-default u-text-2"> Feel free to contact me anytime! I'd be more than happy to help you enhance your skills, in terms of drawing or editing.</p>
                     </div>
                   </div>
                   <div class="u-container-align-left-sm u-container-align-left-xs u-container-style u-layout-cell u-size-25-xl u-size-30-lg u-size-30-md u-size-30-sm u-size-30-xs u-layout-cell-2">
@@ -372,7 +372,7 @@
                   <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-3">
                     <div class="u-container-layout u-container-layout-3">
                       <p class="u-text u-text-default u-text-3">Pedro Gil St. South-Central Manila, Philippines</p>
-                      <h4 class="u-custom-font u-font-montserrat u-text u-text-4"> +63 969 096 0261<br>
+                      <h4 class="u-custom-font u-font-montserrat u-text u-text-4"> +63 969 069 0261<br>
                         <font color="#f41a83">pilpachristian03@gmail.com</font>
                       </h4>
                     </div>
