@@ -131,7 +131,7 @@
             <div class="u-layout-row">
               <div class="u-container-align-left-sm u-container-align-left-xs u-container-style u-layout-cell u-size-15 u-layout-cell-1">
                 <div class="u-container-layout u-valign-top-lg u-valign-top-xl u-valign-top-xs u-container-layout-1">
-                  <h5 class="u-align-left-sm u-align-left-xs u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> Schools</h5>
+                  <h5 class="u-align-left-sm u-align-left-xs u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> Education</h5>
                 </div>
               </div>
               <div class="u-container-style u-layout-cell u-size-45 u-layout-cell-2">
