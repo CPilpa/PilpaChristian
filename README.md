@@ -110,7 +110,7 @@
                 <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-1">
                   <h2 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-1"> I’m Christian Pilpa, a nineteen-year-old College Student from The Philippines</h2>
                   <h5 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-2"> Currently studying Information Technology at Adamson University.</h5>
-                  <p class="u-text u-text-default u-text-3">I also speak three languages: Tagalog, English, and Italian</p>
+                  <p class="u-text u-text-default u-text-3">I speak three languages: Tagalog, English, and Italian</p>
                   <a href="Personal-Website.html#carousel_2575" class="u-border-none u-btn u-btn-round u-button-style u-palette-1-base u-radius-20 u-btn-1">Contacts</a>
                 </div>
               </div>
