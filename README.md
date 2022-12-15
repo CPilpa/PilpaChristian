@@ -200,8 +200,8 @@
               </div>
               <div class="u-container-align-left-sm u-container-align-left-xs u-container-align-right-lg u-container-align-right-md u-container-align-right-xl u-container-style u-layout-cell u-size-14-lg u-size-14-xl u-size-16-md u-size-16-sm u-size-16-xs u-layout-cell-3">
                 <div class="u-container-layout u-container-layout-3">
-                  <a href="https://www.bing.com/maps?q=manila+map&amp;FORM=HDRSC4" class="u-align-left-sm u-align-left-xs u-align-right-lg u-align-right-md u-align-right-xl u-border-none u-btn u-btn-round u-button-style u-palette-1-base u-radius-10 u-btn-1" target="_blank"> Current City</a>
-                  <a href="https://www.bing.com/search?q=san+jose+del+monte+bulacan+map&amp;qs=AS&amp;pq=san+jose+del+monte+bulacan+ma&amp;sc=10-29&amp;cvid=8C73331CD6044412A67281CF94086FA9&amp;FORM=QBRE&amp;sp=1" class="u-align-left-sm u-align-left-xs u-align-right-lg u-align-right-md u-align-right-xl u-border-none u-btn u-btn-round u-button-style u-palette-2-base u-radius-10 u-btn-2" target="_blank"> Hometown</a>
+                  <a href="https://www.google.com/maps/place/Manila,+Metro+Manila/@14.5964957,120.9444544,13z/data=!3m1!4b1!4m5!3m4!1s0x3397ca03571ec38b:0x69d1d5751069c11f!8m2!3d14.5995124!4d120.9842195" class="u-align-left-sm u-align-left-xs u-align-right-lg u-align-right-md u-align-right-xl u-border-none u-btn u-btn-round u-button-style u-palette-1-base u-radius-10 u-btn-1" target="_blank"> Current City</a>
+                  <a href="https://www.google.com/maps/place/San+Jose+del+Monte+City,+Bulacan/@14.8171287,120.9444739,12z/data=!3m1!4b1!4m5!3m4!1s0x3397afa422693581:0x981101434383975d!8m2!3d14.8142626!4d121.072532" class="u-align-left-sm u-align-left-xs u-align-right-lg u-align-right-md u-align-right-xl u-border-none u-btn u-btn-round u-button-style u-palette-2-base u-radius-10 u-btn-2" target="_blank"> Hometown</a>
                 </div>
               </div>
             </div>
