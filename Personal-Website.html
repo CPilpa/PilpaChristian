@@ -1,7 +1,6 @@
 <html style="font-size: 16px;" lang="en"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="​I’m Linda Larson, a twenty-nine-year-old UI/UX designer from Los Angeles, CA, 2017, 2018, 2019, 2020, 2021, 2022, ​I&amp;apos;m designed dozens of appealing interfaces for websites and web apps. Take a look at my projects below., ​UI/UX design, Application design, UX research, Visual communication, Prototyping Headline, ​Get your free consultation now!, ​Sign me up!">
     <meta name="description" content="">
     <title>Personal Website</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
